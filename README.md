@@ -10,6 +10,10 @@ This brain tumor dataset containing 3064 T1-weighted contrast-enhanced MRI (T1w 
 ![5](https://user-images.githubusercontent.com/93741954/182624472-f40935ee-24b0-4c67-9dfa-31293048114f.png)
 ![2](https://user-images.githubusercontent.com/93741954/182621291-d0523a53-88c3-4a70-9ce4-8ae76ed85c7c.png)
 
+The dataset was used in the following research papers:
+- Cheng, Jun, et al. "Enhanced Performance of Brain Tumor Classification via Tumor Region Augmentation and Partition." PloS one 10.10 (2015).
+- Cheng, Jun, et al. "Retrieval of Brain Tumors by Adaptive Spatial Pooling and Fisher Vector Representation." PloS one 11.6 (2016).
+
 ### How to run
 Before executing the Google Colab notebook make sure you can access the dataset from your Google Colab notebook for which you can create the shortcut to the Google Drive link: https://drive.google.com/drive/folders/1BrPSLL6AxZortFKJW3aqCBQztXBdD8Qp?usp=sharing on your google drive and then set the path to this shortcut by changing the value of DATA_PATH_DIR variable in the notebook to get access to the datasets after you have given access to your google drive by executing the following piece of code:
 ![1](https://user-images.githubusercontent.com/93741954/182620585-1bbd8b7a-b7c9-47ba-a818-b1086d0ffc49.png)
