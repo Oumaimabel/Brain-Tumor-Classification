@@ -4,8 +4,10 @@
 Automatic segmentation and classification of medical images play an important role in diagnostics, growth prediction, and treatment of brain tumors. An early tumor brain diagnosis implies a faster response in treatment, which helps to improve patients’ survival rate. Location and classification of brain tumors in large medical images databases, taken in routine clinical tasks by manual procedures, have a high cost both in effort and time. An automatic detection, location, and classification procedure is desirable and worthwhile.
 
 ### About Dataset
-Refer to README.md file in the Brain Tumor Dataset directory in this repository to get a clear idea about the dataset and the preprocessing steps.
+This brain tumor dataset containing 3064 T1-weighted contrast-enhanced MRI (T1w CE-MRI) images from 233 patients with three kinds of brain tumor:
 
+![4](https://user-images.githubusercontent.com/93741954/182624390-27564850-e9c3-49bd-8e56-eabe255857a2.png)
+![5](https://user-images.githubusercontent.com/93741954/182624472-f40935ee-24b0-4c67-9dfa-31293048114f.png)
 ![2](https://user-images.githubusercontent.com/93741954/182621291-d0523a53-88c3-4a70-9ce4-8ae76ed85c7c.png)
 
 ### How to run
